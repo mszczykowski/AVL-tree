@@ -1,0 +1,45 @@
+D:\algorytmy\ProjektForms\ProjektForms\bin\Debug\netcoreapp3.1\ProjektForms.exe
+D:\algorytmy\ProjektForms\ProjektForms\bin\Debug\netcoreapp3.1\ProjektForms.deps.json
+D:\algorytmy\ProjektForms\ProjektForms\bin\Debug\netcoreapp3.1\ProjektForms.runtimeconfig.json
+D:\algorytmy\ProjektForms\ProjektForms\bin\Debug\netcoreapp3.1\ProjektForms.runtimeconfig.dev.json
+D:\algorytmy\ProjektForms\ProjektForms\bin\Debug\netcoreapp3.1\ProjektForms.dll
+D:\algorytmy\ProjektForms\ProjektForms\bin\Debug\netcoreapp3.1\ProjektForms.pdb
+D:\algorytmy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.csprojAssemblyReference.cache
+D:\algorytmy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.csproj.GenerateResource.cache
+D:\algorytmy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.AssemblyInfoInputs.cache
+D:\algorytmy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.AssemblyInfo.cs
+D:\algorytmy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.csproj.CoreCompileInputs.cache
+D:\algorytmy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.dll
+D:\algorytmy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.pdb
+D:\algorytmy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.genruntimeconfig.cache
+D:\algorytmy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.Form1.resources
+E:\ASD programy\ProjektForms\ProjektForms\bin\Debug\netcoreapp3.1\ProjektForms.exe
+E:\ASD programy\ProjektForms\ProjektForms\bin\Debug\netcoreapp3.1\ProjektForms.deps.json
+E:\ASD programy\ProjektForms\ProjektForms\bin\Debug\netcoreapp3.1\ProjektForms.runtimeconfig.json
+E:\ASD programy\ProjektForms\ProjektForms\bin\Debug\netcoreapp3.1\ProjektForms.runtimeconfig.dev.json
+E:\ASD programy\ProjektForms\ProjektForms\bin\Debug\netcoreapp3.1\ProjektForms.dll
+E:\ASD programy\ProjektForms\ProjektForms\bin\Debug\netcoreapp3.1\ProjektForms.pdb
+E:\ASD programy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.csprojAssemblyReference.cache
+E:\ASD programy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.Form1.resources
+E:\ASD programy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.csproj.GenerateResource.cache
+E:\ASD programy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.AssemblyInfoInputs.cache
+E:\ASD programy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.AssemblyInfo.cs
+E:\ASD programy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.csproj.CoreCompileInputs.cache
+E:\ASD programy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.dll
+E:\ASD programy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.pdb
+E:\ASD programy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.genruntimeconfig.cache
+D:\backup\ASD programy\ProjektForms\ProjektForms\bin\Debug\netcoreapp3.1\ProjektForms.exe
+D:\backup\ASD programy\ProjektForms\ProjektForms\bin\Debug\netcoreapp3.1\ProjektForms.deps.json
+D:\backup\ASD programy\ProjektForms\ProjektForms\bin\Debug\netcoreapp3.1\ProjektForms.runtimeconfig.json
+D:\backup\ASD programy\ProjektForms\ProjektForms\bin\Debug\netcoreapp3.1\ProjektForms.runtimeconfig.dev.json
+D:\backup\ASD programy\ProjektForms\ProjektForms\bin\Debug\netcoreapp3.1\ProjektForms.dll
+D:\backup\ASD programy\ProjektForms\ProjektForms\bin\Debug\netcoreapp3.1\ProjektForms.pdb
+D:\backup\ASD programy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.csprojAssemblyReference.cache
+D:\backup\ASD programy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.Form1.resources
+D:\backup\ASD programy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.csproj.GenerateResource.cache
+D:\backup\ASD programy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.AssemblyInfoInputs.cache
+D:\backup\ASD programy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.AssemblyInfo.cs
+D:\backup\ASD programy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.csproj.CoreCompileInputs.cache
+D:\backup\ASD programy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.dll
+D:\backup\ASD programy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.pdb
+D:\backup\ASD programy\ProjektForms\ProjektForms\obj\Debug\netcoreapp3.1\ProjektForms.genruntimeconfig.cache
